@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "mellanox.onyx",
+  "versions": [
+    {
+      "commit": "895d3a20969fa24b1ddf45f89ca57aa1a29b5407",
+      "tag": "",
+      "parsed_at": "2026-11-07T18:06:51.096623+00:00"
+    }
+  ]
+}
